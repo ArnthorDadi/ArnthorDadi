@@ -49,3 +49,7 @@ _Cards made by: [anuraghazra github-readme-stats](https://github.com/anuraghazra
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<p align="center"><b>🐛 See something wrong or missing in this read me?</b></p>
+
+<p align="center">If so then feel free to submit an issue on this repository 😀!</p>
