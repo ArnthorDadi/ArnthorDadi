@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Header](https://github.com/ArnthorDadi/ArnthorDadi/images/do-something-great.jpg "Header")](https://arnthordadi.github.io/)
+
+### <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hello there!
 
 <!--
 **ArnthorDadi/ArnthorDadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
