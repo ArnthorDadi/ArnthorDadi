@@ -44,6 +44,10 @@ _Cards made by: [anuraghazra github-readme-stats](https://github.com/anuraghazra
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArnthorDadi&repo=MazeSolver&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a>
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=ArnthorDadi&theme=dark&hide_border=true" width = 400>
+</a>
+
 ### 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnthordadi&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
