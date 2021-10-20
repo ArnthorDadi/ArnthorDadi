@@ -27,7 +27,6 @@ I'm Arnthor Dadi and I'm passionate Fullstack developer from Iceland 🇮🇸 wi
 And so much more...
 
 ## 📈 Github Stats
-
 _Cards made by: [anuraghazra github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <a href="https://github.com/ArnthorDadi/ArnthorDadi">
@@ -46,9 +45,7 @@ _Cards made by: [anuraghazra github-readme-stats](https://github.com/anuraghazra
 </a>
 
 ### 🏆 Trophies
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnthordadi&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 😂 Here is a random joke that'll make you laugh!
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
