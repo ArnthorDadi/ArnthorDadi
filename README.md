@@ -1,4 +1,4 @@
-[![Header](https://github.com/ArnthorDadi/ArnthorDadi/images/do-something-great.jpg "Header")](https://arnthordadi.github.io/)
+[![Header](https://github.com/ArnthorDadi/ArnthorDadi/blob/main/images/do-something-great.jpg "Header")](https://arnthordadi.github.io/)
 
 ### <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hello there!
 
