@@ -12,7 +12,7 @@
 
 ---
 
-# <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hello there! 👨🏻‍💻
+# <img src="https://github.com/ArnthorDadi/ArnthorDadi/blob/main/gifs/waving-hand.gif" width="30px"> Hello there! 👨🏻‍💻
 
 I'm Arnthor Dadi and I'm passionate Fullstack developer from Iceland 🇮🇸 with a bsc computer science degree from Reykjavik University.
 
