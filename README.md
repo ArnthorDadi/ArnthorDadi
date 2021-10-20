@@ -30,7 +30,7 @@ And so much more...
 _Cards made by: [anuraghazra github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <a href="https://github.com/ArnthorDadi/ArnthorDadi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnthorDadi&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnthorDadi&hide=html&exclude_repo=Kattis,ArnthorDadi,bilaleigabjorgvinsb,infrastructure,FlappyBirdAI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/ArnthorDadi/ArnthorDadi">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArnthorDadi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ArnthorDadi's GitHub Stats" />
